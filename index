@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dr Affendy Project</title>
+</head>
+<body>
+    <h1>Welcome to the Dr Affendy Project!</h1>
+    <p>This project is all about <insert description of the project here>.</p>
+    <h2>Getting Started</h2>
+    <p>To get started, <insert instructions on how to use or contribute to the project here>.</p>
+    <h2>Resources</h2>
+    <ul>
+        <li><a href="https://github.com/DrFnd/dr-affendy-project">Project repository</a></li>
+        <li><a href="https://github.com/DrFnd/dr-affendy-project/issues">Issue tracker</a></li>
+        <li><a href="https://github.com/DrFnd/dr-affendy-project/wiki">Project wiki</a></li>
+    </ul>
+</body>
+</html>
